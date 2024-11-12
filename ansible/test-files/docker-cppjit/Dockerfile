@@ -1,5 +1,5 @@
 # adjusted from https://github.com/ethereum/cpp-ethereum/blob/develop/docker/Dockerfile
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get update
