@@ -1,5 +1,5 @@
 # Adjusted from https://github.com/ethereum/go-ethereum/blob/develop/Dockerfile
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 ## Environment setup
 ENV HOME /root
